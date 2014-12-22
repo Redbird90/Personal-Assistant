@@ -1,0 +1,12 @@
+Event_One_Time File
+
+START Event_One_Time:
+
+name=Jazzfest 2014
+date_of_event=03022014
+date_created=09052014
+reminder_days=[02252014, 03012014]
+location=Gold Coast Drive
+note=None
+
+END Event_One_Time.

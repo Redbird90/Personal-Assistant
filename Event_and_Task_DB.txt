@@ -1,0 +1,12 @@
+Events and Tasks Database for Personal Assistant
+
+The Database will inform the program of the name of the files to look for.  The file name and object name will be equal.
+The program will then look in the correct files for the object attributes and then create the objects.
+
+Database Template = [Event_Name, Task_Name]
+
+
+
+START_DATABASE:
+
+END_DATABASE.

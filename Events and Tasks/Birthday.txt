@@ -1,0 +1,12 @@
+Event_Recurring File
+
+START Event_Recurring:
+
+name=Birthday
+dates_of_events=[06152015, 06152016, 06152017]
+date_created=09062014
+reminder_days=[06082015, 06082016, 06082017]
+location=None
+note=None
+
+END Event_Recurring.
